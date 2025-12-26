@@ -1,0 +1,6 @@
+@FFAPI_HostAddress = http://localhost:5116
+
+GET {{FFAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
